@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hi👋
 
-- 🌱 I’m currently learning B-tech cse
-- 👯 I’m looking to collaborate on web devolopment
-- 🤔 I’m looking for help with coding
-- 💬 Ask me about coding
-- 📫 How to reach me: contect me in ravikumar01010@gmail.com
+- 🌱 I’m B-Tech 4th yera student.
+- 📫 For reach me: contect me in ravikumarraj01010@gmail.com
 
