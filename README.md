@@ -1,5 +1,7 @@
-### Hi👋
+### Hi there 👋
 
-- 🌱 I’m Ravi Kumar B-Tech 4th year CSE student from Kalasalingam academy research and education.
-- 📫 For reach me: contect me in ravikumarraj01010@gmail.com
-- My portfilio : https://ravikumarportfolio.vercel.app/
+- 🎓 I'm Ravi Kumar, a B.Tech (CSE) graduate from Kalasalingam Academy of Research and Education  
+- 💻 Passionate about Full Stack Development, AI/ML, and building real-world systems  
+- 🚀 Currently seeking opportunities in AI/ML / Full Stack Development  
+- 📫 Reach me at: **ravikumarraj01010@gmail.com**  
+- 🌐 Portfolio: [ravikumarportfolio.vercel.app](https://ravikumarportfolio.vercel.app/)  
